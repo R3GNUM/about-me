@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arshjahmurad
+- 👋 Hi, I’m @R3GNUM
 - 👀 I’m interested in cybersec and programming
 - 🌱 I’m currently learning  cybersec and lock picking
 - 💞️ I’m looking to collaborate on hacking projects,ctf,confrence
